@@ -1,4 +1,4 @@
-## Javascript Event Handler
+## Javascript Event Handlers
 
 * onabort: 이미지의 다운로드를 중지할 때 (브라우저의 중지버튼)
 
